@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# This is project is a booking web application for users to book resources.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Original was developed by React 17, now has upgraded to React 18, but it has little error on importing data from a json file, still try to figure why...
+
+It need to install json-server package to run the json-server, so it can simulate a REST API.
 
 ## Available Scripts
 
